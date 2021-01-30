@@ -1,0 +1,12 @@
+C:\Projects\DevBook\App\DevBook.Domain\bin\Debug\netcoreapp3.1\DevBook.Domain.deps.json
+C:\Projects\DevBook\App\DevBook.Domain\bin\Debug\netcoreapp3.1\DevBook.Domain.dll
+C:\Projects\DevBook\App\DevBook.Domain\bin\Debug\netcoreapp3.1\DevBook.Domain.pdb
+C:\Projects\DevBook\App\DevBook.Domain\obj\Debug\netcoreapp3.1\DevBook.Domain.AssemblyInfoInputs.cache
+C:\Projects\DevBook\App\DevBook.Domain\obj\Debug\netcoreapp3.1\DevBook.Domain.AssemblyInfo.cs
+C:\Projects\DevBook\App\DevBook.Domain\obj\Debug\netcoreapp3.1\DevBook.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\DevBook\App\DevBook.Domain\obj\Debug\netcoreapp3.1\DevBook.Domain.dll
+C:\Projects\DevBook\App\DevBook.Domain\obj\Debug\netcoreapp3.1\DevBook.Domain.pdb
+C:\Projects\DevBook\App\DevBook.Domain\bin\Debug\netcoreapp3.1\DevBook.Domain.runtimeconfig.json
+C:\Projects\DevBook\App\DevBook.Domain\bin\Debug\netcoreapp3.1\DevBook.Domain.runtimeconfig.dev.json
+C:\Projects\DevBook\App\DevBook.Domain\obj\Debug\netcoreapp3.1\DevBook.Domain.genruntimeconfig.cache
+C:\Projects\DevBook\App\DevBook.Domain\obj\Debug\netcoreapp3.1\DevBook.Domain.csprojAssemblyReference.cache
